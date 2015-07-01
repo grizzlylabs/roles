@@ -1,6 +1,6 @@
 ## Deployment Server Role
 # Class: role::deployment 
-class role::deployment {
+class roles::deployment {
 #   include profile::base
    include profile::puppetmaster   
 #   include profile::apache_server  
